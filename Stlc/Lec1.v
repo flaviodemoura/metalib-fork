@@ -134,7 +134,7 @@ Require Import Metalib.Metatheory.
     If you haven't skimmed this file yet, you should do so now. You don't
     need to understand everything in the file at first, but you will need to
     refer back to it in the material below. *)
-Require Import Stlc.Definitions.
+Require Import Definitions.
 
 (** And some notations (defined in `Stlc.Definitions`), but not automatically
     brought into scope. *)
